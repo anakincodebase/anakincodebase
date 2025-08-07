@@ -15,7 +15,7 @@
 
 > "Everything I see is someone’s contribution. I’m just here to leave a small, thoughtful trace of my own."
 
-Hi, I'm **Afnan**, though online I often go by **Anakin** — not because I’ve joined the dark side ⚔️, but because I’m drawn to the tension between power and purpose, logic and emotion, code and creativity.
+Hi, I'm **Afnan**, though online I often go by **Anakin** .
 
 I'm a **Data Science major** based in **Pakistan**.
 
