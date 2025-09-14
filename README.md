@@ -20,22 +20,3 @@ Hi, I'm **Afnan**, though online I often go by **Anakin** .
 I'm a **Data Science major** based in **Pakistan**.
 
 
----
-
-### 🧠 I believe:
-
-- Curiosity is a form of courage.
-- Learning is never linear — it's layered, messy, and worth it.
-
----
-
-### 🔎 What I’m Exploring:
-
-- 🤖 **Robotics** — Making machines sense, decide, and move with intent  
-- 📊 **Data Science** — Interpreting signals in noise and finding clarity in patterns  
-- 🧠 **Machine Learning** — Modeling cognition to solve real-world problems  
-- 🔬 **AI/ML Engineering** — Turning prototypes into production-ready tools  
-- 🧩 **Systems Thinking** — Understanding how the parts create the whole  
-
----
-
